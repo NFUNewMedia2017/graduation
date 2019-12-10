@@ -6,10 +6,10 @@
 | Target release    |  2019/11   |
 |  Epic   |  毕业了   |
 |  Document status   |  进行中   |
-|  Document owner   |  卢靖民  |
-|  Designer   |  卢靖民   |
-|  Developer   |  卢靖民   |
-|  QA   |   卢靖民  |
+|  Document owner   |  石恒  |
+|  Designer   |  石恒   |
+|  Developer   |  石恒   |
+|  QA   |   石恒  |
 
 ## 简介
 “毕业了”是针对毕业生的智能相册APP，给毕业生提供一个回忆和社交的平台
